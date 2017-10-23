@@ -1,2 +1,0 @@
-# react-frontend
-for study
